@@ -1,0 +1,14 @@
+360MonoDepth: High-Resolution 360deg Monocular Depth Estimation
+Exploiting Pseudo Labels in a Self-Supervised Learning Framework for Improved Monocular Depth Estimation
+Neural Window Fully-Connected CRFs for Monocular Depth Estimation
+OmniFusion: 360 Monocular Depth Estimation via Geometry-Aware Fusion
+Multi-View Depth Estimation by Fusing Single-View Depth Probability With Multi-View Geometry
+Single-Stage 3D Geometry-Preserving Depth Estimation Model Training on Dataset Mixtures With Uncalibrated Stereo Data
+Toward Practical Monocular Indoor Depth Estimation
+P3Depth: Monocular Depth Estimation With a Piecewise Planarity Prior
+Depth Estimation by Combining Binocular Stereo and Monocular Structured-Light
+CroMo: Cross-Modal Learning for Monocular Depth Estimation
+Gated2Gated: Self-Supervised Depth Estimation From Gated Images
+Rethinking Depth Estimation for Multi-View Stereo: A Unified Representation
+Towards Multimodal Depth Estimation From Light Fields
+Occlusion-Aware Cost Constructor for Light Field Depth Estimation

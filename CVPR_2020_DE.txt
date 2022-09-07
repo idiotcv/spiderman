@@ -1,0 +1,12 @@
+Bi3D: Stereo Depth Estimation via Binary Classifications
+SDC-Depth: Semantic Divide-and-Conquer Network for Monocular Depth Estimation
+On the Uncertainty of Self-Supervised Monocular Depth Estimation
+Normal Assisted Stereo Depth Estimation
+Self-Supervised Monocular Trained Depth Estimation Using Self-Attention and Discrete Disparity Volume
+Domain Decluttering: Simplifying Images to Mitigate Synthetic-Real Domain Shift and Improve Depth Estimation
+3D Packing for Self-Supervised Monocular Depth Estimation
+Geometric Structure Based and Regularized Depth Estimation From 360 Indoor Imagery
+BiFuse: Monocular 360 Depth Estimation via Bi-Projection Fusion
+Focus on Defocus: Bridging the Synthetic to Real Domain Gap for Depth Estimation
+Self-Supervised Human Depth Estimation From Monocular Videos
+Predicting Sharp and Accurate Occlusion Boundaries in Monocular Depth Estimation Using Displacement Fields
